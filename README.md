@@ -1,3 +1,15 @@
+# Chau Ly's words
+
+This first removes the Elastic Search part, and simply exposes the streamlit UI which uses pandas DataFrame inside
+
+See the parts under #contact-tracing to setup the environment
+
+Run the below to test out the UI
+
+```bash
+streamlit run movie_app.py
+```
+
 # contact-tracing
 
 This is a simple application that performs Contact Tracing using an <b>Elasticsearch</b> backend written in Python, and a Streamlit Frontend.
